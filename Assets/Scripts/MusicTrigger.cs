@@ -28,9 +28,14 @@ public class MusicTrigger : MonoBehaviour
 
     private void OnTriggerEnter(Collider other)
     {
-        objectToSpawn.SetActive(true);
-        Instantiate(particleEffect, particleEffectLocation.position, particleEffectLocation.rotation);
-        audio.PlayOneShot(pianoKeySFX, Volume);
+        if (other.CompareTag("Hand"))
+        {
+            objectToSpawn.SetActive(true);
+            Instantiate(particleEffect, particleEffectLocation.position, particleEffectLocation.rotation);
+            audio.PlayOneShot(pianoKeySFX, Volume);
+            GetComponent<Animator>().Play("KeyPress");
+        }
+
     }
 
 }

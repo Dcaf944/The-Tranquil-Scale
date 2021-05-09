@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Examples/Scenes/Main.unity
-    guid: 17d10320f148ee64488837d5f8008cfd
+    path: Assets/Scene/TheTranquilScaleScene.unity
+    guid: 2ddef4ffe47180e45800fe9452fd9ec8
   m_configObjects: {}
