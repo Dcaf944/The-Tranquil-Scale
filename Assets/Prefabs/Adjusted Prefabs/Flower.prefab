@@ -90,7 +90,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 81283c9a35baace478e8db655f27e1b1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  speed: 0.02
   mObject: {fileID: 707512689460531529}
+  startColour: {r: 0.7735849, g: 0.7735849, b: 0.7735849, a: 0}
   colour: {r: 0.8679245, g: 0.8306963, b: 0.11053756, a: 0}
   material: {fileID: 2100000, guid: fda50e71d3b72974d96d5b0278348bb0, type: 2}
 --- !u!1 &2587747788257946843
@@ -216,7 +218,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 81283c9a35baace478e8db655f27e1b1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  speed: 0.02
   mObject: {fileID: 2692280521003915161}
+  startColour: {r: 0.7830189, g: 0.7830189, b: 0.7830189, a: 0}
   colour: {r: 0.8962264, g: 0.41591275, b: 0.10568706, a: 0}
   material: {fileID: 2100000, guid: fda50e71d3b72974d96d5b0278348bb0, type: 2}
 --- !u!1 &3625613969861315892
@@ -309,7 +313,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 81283c9a35baace478e8db655f27e1b1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  speed: 0.02
   mObject: {fileID: 3625613969861315892}
+  startColour: {r: 0.7830189, g: 0.7830189, b: 0.7830189, a: 0}
   colour: {r: 0.4716981, g: 0.27561012, b: 0.13127448, a: 0}
   material: {fileID: 2100000, guid: fda50e71d3b72974d96d5b0278348bb0, type: 2}
 --- !u!1 &5022047920259261076
@@ -402,7 +408,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 81283c9a35baace478e8db655f27e1b1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  speed: 0.02
   mObject: {fileID: 5022047920259261076}
+  startColour: {r: 0.7830189, g: 0.7830189, b: 0.7830189, a: 0}
   colour: {r: 0.08877714, g: 0.8962264, b: 0.109592766, a: 0}
   material: {fileID: 2100000, guid: fda50e71d3b72974d96d5b0278348bb0, type: 2}
 --- !u!1 &7979902210653869472
@@ -495,7 +503,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 81283c9a35baace478e8db655f27e1b1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  speed: 0.02
   mObject: {fileID: 7979902210653869472}
+  startColour: {r: 0.7924528, g: 0.7924528, b: 0.7924528, a: 0}
   colour: {r: 0.8113208, g: 0.8113208, b: 0.8113208, a: 0}
   material: {fileID: 2100000, guid: fda50e71d3b72974d96d5b0278348bb0, type: 2}
 --- !u!1 &8829168587162786735

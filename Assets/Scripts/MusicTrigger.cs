@@ -14,6 +14,9 @@ public class MusicTrigger : MonoBehaviour
     public GameObject nextKeyToPLay;
     public GameObject keyToHide;
 
+    public GameObject thisKeyReal;
+    public GameObject thisKeyFake;
+
 
 
     // Start is called before the first frame update
@@ -43,6 +46,7 @@ public class MusicTrigger : MonoBehaviour
             audio.PlayOneShot(pianoKeySFX, Volume);
             GetComponent<Animator>().Play("KeyPress");
             Invoke("NextKey", 15);
+            Invoke("EndKey", 17);
         }
 
     }
@@ -52,6 +56,13 @@ public class MusicTrigger : MonoBehaviour
         nextKeyToPLay.SetActive(true);
         keyToHide.SetActive(false);
     }
+
+    void EndKey()
+    {
+        thisKeyReal.SetActive(false);
+        thisKeyFake.SetActive(true);
+    }
+       
 
 
 }

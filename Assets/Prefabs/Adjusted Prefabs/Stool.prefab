@@ -90,7 +90,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 81283c9a35baace478e8db655f27e1b1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  speed: 0.02
   mObject: {fileID: 860947688088533584}
+  startColour: {r: 0.8113208, g: 0.8113208, b: 0.8113208, a: 0}
   colour: {r: 0.4433962, g: 0.11693456, b: 0.02300641, a: 0}
   material: {fileID: 2100000, guid: fda50e71d3b72974d96d5b0278348bb0, type: 2}
 --- !u!1 &3368026892348233711
@@ -246,6 +248,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 81283c9a35baace478e8db655f27e1b1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  speed: 0.02
   mObject: {fileID: 6783330233892699615}
+  startColour: {r: 0.7924528, g: 0.7924528, b: 0.7924528, a: 0}
   colour: {r: 1, g: 1, b: 1, a: 0}
   material: {fileID: 2100000, guid: fda50e71d3b72974d96d5b0278348bb0, type: 2}
