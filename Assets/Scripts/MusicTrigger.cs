@@ -6,8 +6,6 @@ public class MusicTrigger : MonoBehaviour
 {
     public GameObject objectToSpawn;
     public AudioClip pianoKeySFX;
-    public GameObject particleEffect;
-    public Transform particleEffectLocation;
     AudioSource audio;
     public float Volume;
 
@@ -42,7 +40,6 @@ public class MusicTrigger : MonoBehaviour
             Collider col = GetComponent<Collider>();
             col.enabled = false;
             objectToSpawn.SetActive(true);
-            Instantiate(particleEffect, particleEffectLocation.position, particleEffectLocation.rotation);
             audio.PlayOneShot(pianoKeySFX, Volume);
             GetComponent<Animator>().Play("KeyPress");
             Invoke("NextKey", 15);
