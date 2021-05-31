@@ -8892,7 +8892,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   BuildType: 2
-  EditorType: 1
+  EditorType: 2
 --- !u!114 &1531825826
 MonoBehaviour:
   m_ObjectHideFlags: 0
