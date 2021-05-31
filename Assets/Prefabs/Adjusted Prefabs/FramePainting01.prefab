@@ -202,7 +202,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 81283c9a35baace478e8db655f27e1b1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  speed: 0.02
   mObject: {fileID: 8463882960346764448}
+  startColour: {r: 0, g: 0, b: 0, a: 0}
   colour: {r: 1, g: 0.6223973, b: 0, a: 0}
   material: {fileID: 2100000, guid: fda50e71d3b72974d96d5b0278348bb0, type: 2}
 --- !u!1 &8800696177218615832

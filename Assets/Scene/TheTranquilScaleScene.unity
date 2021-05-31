@@ -6516,6 +6516,14 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 1.8658531
       objectReference: {fileID: 0}
+    - target: {fileID: 1783064868, guid: 99846a14ec713714193632de58de6746, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.009
+      objectReference: {fileID: 0}
+    - target: {fileID: 1783064868, guid: 99846a14ec713714193632de58de6746, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.003
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 99846a14ec713714193632de58de6746, type: 3}
 --- !u!4 &1142699521 stripped
@@ -7287,6 +7295,14 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalScale.z
       value: 1.865854
+      objectReference: {fileID: 0}
+    - target: {fileID: 1783064868, guid: 99846a14ec713714193632de58de6746, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.009
+      objectReference: {fileID: 0}
+    - target: {fileID: 1783064868, guid: 99846a14ec713714193632de58de6746, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.001
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 99846a14ec713714193632de58de6746, type: 3}
@@ -8876,7 +8892,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   BuildType: 2
-  EditorType: 2
+  EditorType: 1
 --- !u!114 &1531825826
 MonoBehaviour:
   m_ObjectHideFlags: 0
