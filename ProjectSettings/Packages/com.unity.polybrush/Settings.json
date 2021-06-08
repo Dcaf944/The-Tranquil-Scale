@@ -40,12 +40,12 @@
             },
             {
                 "type": "System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
-                "key": "Mesh.UseAdditionalVertexStream",
-                "value": "{\"m_Value\":false}"
+                "key": "Brush.HideWireframe",
+                "value": "{\"m_Value\":true}"
             },
             {
                 "type": "System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
-                "key": "Brush.HideWireframe",
+                "key": "Mesh.RebuildNormals",
                 "value": "{\"m_Value\":true}"
             },
             {
@@ -55,8 +55,8 @@
             },
             {
                 "type": "System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
-                "key": "Mesh.RebuildNormals",
-                "value": "{\"m_Value\":true}"
+                "key": "Mesh.UseAdditionalVertexStream",
+                "value": "{\"m_Value\":false}"
             },
             {
                 "type": "UnityEngine.Polybrush.BrushMirror, Unity.Polybrush, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
@@ -87,11 +87,6 @@
                 "type": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
                 "key": "ScatteringEditor.PreviewThumSize",
                 "value": "{\"m_Value\":64}"
-            },
-            {
-                "type": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
-                "key": "GI.WorkflowMode",
-                "value": "{\"m_Value\":1}"
             },
             {
                 "type": "System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
