@@ -121,7 +121,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 81283c9a35baace478e8db655f27e1b1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 0.02
+  speed: 0.06
   mObject: {fileID: 1231746005382530887}
   startColour: {r: 0.8490566, g: 0.8490566, b: 0.8490566, a: 0}
   colour: {r: 0.5471698, g: 0.19601126, b: 0, a: 0}
@@ -216,7 +216,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 81283c9a35baace478e8db655f27e1b1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 0.02
+  speed: 0.06
   mObject: {fileID: 1707400643806373257}
   startColour: {r: 0.8584906, g: 0.8584906, b: 0.8584906, a: 0}
   colour: {r: 1, g: 1, b: 1, a: 0}

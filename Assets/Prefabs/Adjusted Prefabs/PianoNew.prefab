@@ -90,7 +90,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 81283c9a35baace478e8db655f27e1b1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 0.02
+  speed: 0.06
   mObject: {fileID: 4997983924766967865}
   startColour: {r: 0.8396226, g: 0.8396226, b: 0.8396226, a: 0}
   colour: {r: 0, g: 0, b: 0, a: 0}

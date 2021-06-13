@@ -123,7 +123,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 81283c9a35baace478e8db655f27e1b1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 0.02
+  speed: 0.06
   mObject: {fileID: 1787514365010095381}
   startColour: {r: 0.7830189, g: 0.7830189, b: 0.7830189, a: 0}
   colour: {r: 0.9056604, g: 0.9056604, b: 0.9056604, a: 0}
@@ -250,7 +250,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 81283c9a35baace478e8db655f27e1b1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 0.02
+  speed: 0.06
   mObject: {fileID: 7154466596956134028}
   startColour: {r: 0.754717, g: 0.754717, b: 0.754717, a: 0}
   colour: {r: 0.18432207, g: 0.7264151, b: 0.119927004, a: 0}
@@ -345,7 +345,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 81283c9a35baace478e8db655f27e1b1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 0.02
+  speed: 0.06
   mObject: {fileID: 7625305471052334844}
   startColour: {r: 0.7830189, g: 0.7830189, b: 0.7830189, a: 0}
   colour: {r: 0.41509432, g: 0.16727072, b: 0.041117832, a: 0}
@@ -440,7 +440,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 81283c9a35baace478e8db655f27e1b1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 0.02
+  speed: 0.06
   mObject: {fileID: 7853629250269351630}
   startColour: {r: 0.7924528, g: 0.7924528, b: 0.7924528, a: 0}
   colour: {r: 0.5536223, g: 0.8207547, b: 0.5689158, a: 0}
