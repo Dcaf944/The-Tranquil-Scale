@@ -262,6 +262,15 @@ AnimationClip:
         inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
         outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
       - serializedVersion: 3
+        time: 1.1833333
+        value: {x: 0.91806114, y: -0.147, z: -0.50327486}
+        inSlope: {x: -0.09148744, y: 0.09261261, z: 0.027910007}
+        outSlope: {x: -0.09148744, y: 0.09261261, z: 0.027910007}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
         time: 5.55
         value: {x: -0.04, y: 0.028, z: -0.211}
         inSlope: {x: 0, y: 0, z: 0}
@@ -1204,6 +1213,15 @@ AnimationClip:
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
+        time: 1.1833333
+        value: 0.91806114
+        inSlope: -0.09148744
+        outSlope: -0.09148744
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
         time: 5.55
         value: -0.04
         inSlope: 0
@@ -1232,6 +1250,15 @@ AnimationClip:
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
+        time: 1.1833333
+        value: -0.147
+        inSlope: 0.09261261
+        outSlope: 0.09261261
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
         time: 5.55
         value: 0.028
         inSlope: 0
@@ -1255,6 +1282,15 @@ AnimationClip:
         value: -0.542
         inSlope: 0
         outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 1.1833333
+        value: -0.50327486
+        inSlope: 0.027910007
+        outSlope: 0.027910007
         tangentMode: 136
         weightedMode: 0
         inWeight: 0.33333334
